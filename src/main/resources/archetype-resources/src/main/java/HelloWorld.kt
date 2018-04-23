@@ -1,4 +1,4 @@
-package com.willwinder.javalin;
+package $package
 
 import io.javalin.Javalin
 

@@ -91,7 +91,7 @@
             <configuration>
               <transformers>
                 <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-                  <mainClass>com.willwinder.javalin.HelloWorldKt</mainClass>
+                  <mainClass>${groupId}.HelloWorldKt</mainClass>
                 </transformer>
               </transformers>
             </configuration>
