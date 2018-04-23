@@ -8,6 +8,8 @@
   <packaging>maven-archetype</packaging>
 
   <name>javalin-kotlin-archetype</name>
+  <description>Simple archetype to setup a javalin project using Kotlin</description>
+  <url>https://github.com/winder/javalin-kotlin-archetype</url>
 
   <scm>
     <connection>scm:git:git@github.com:winder/javalin-kotlin-archetype.git</connection>
